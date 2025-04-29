@@ -1,2 +1,0 @@
-# Null-Hub
-Script
